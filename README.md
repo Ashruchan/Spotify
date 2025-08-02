@@ -32,7 +32,7 @@ spotify-clone/
 
 1. Clone the repository  
 
-
+https://github.com/Ashruchan/Spotify
 
 2. Open `index.html` in your browser
 3. Enjoy the experience!
